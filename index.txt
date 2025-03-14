@@ -1,0 +1,19 @@
+--------------
+blog-title
+--------------
+
+( header.jpg )
+
+MENU
+.profile
+.news
+.article
+.site map
+.link
+
+[2020/06/22]
+
+[2020/06/30]
+
+------------
+My-blog(c) 2020
